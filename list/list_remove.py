@@ -36,5 +36,3 @@ thislist.clear()
 print(thislist)
 
 
-
-# 🥳 Note (Difference between Pop and del)

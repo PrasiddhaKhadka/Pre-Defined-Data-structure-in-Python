@@ -8,6 +8,7 @@ print(thislist)
 # add an element at the specified index and shift the existing elements
 thislist = ["apple", "banana", "cherry"]
 thislist.insert(1, "orange")
+print(dir(thislist))
 print(thislist)
 
 

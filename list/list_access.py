@@ -1,10 +1,13 @@
 thislist = list(("apple", "banana", "cherry","mango","grapes")) 
 
+# will access the first element 
+print(thislist[::2])
+
 # will access the last element
 print(thislist[-1])
 
 # will access the 2nd to 4th element
-print(thislist[2:5])
+print(thislist[2:8])
 
 # will access the first 4 elements
 print(thislist[:4])
