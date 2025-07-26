@@ -1,6 +1,8 @@
 thislist = list(("apple", "banana", "cherry","mango","grapes")) 
 
-# will access the first element 
+print(thislist)
+
+# will access the element at even index
 print(thislist[::2])
 
 # will access the last element
